@@ -13,3 +13,7 @@ Tilemaps for grid-based levels, adding hazards (spikes/traps), designing flow (p
 Activity : Design of 2 levels for an endless runner (2D or 3D); Level 1 should be noticeable easier than level 2. Implement traps. No HP, once caught in trap restart from the beginning of the level. There should be a notification when entering level 2.
 <img width="1920" height="1020" alt="Screenshot 2026-02-22 200858" src="https://github.com/user-attachments/assets/6a5da8c3-62d7-40b8-8672-7879fba60c2f" />
 <img width="1920" height="1020" alt="Screenshot 2026-02-22 200916" src="https://github.com/user-attachments/assets/089279d3-9868-4f7d-979f-e32474e8f66b" />
+
+Week 3: Activity1 UI/UX & Audio
+HUD
+<img width="1920" height="1020" alt="Screenshot 2026-03-05 201647" src="https://github.com/user-attachments/assets/9c2305a7-7981-4994-976c-39c4eaf10210" />
