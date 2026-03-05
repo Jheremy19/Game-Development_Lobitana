@@ -1,0 +1,31 @@
+[gd_scene format=3 uid="uid://d0x5md87flxaj"]
+
+[ext_resource type="Texture2D" uid="uid://cjvihhqvl54yo" path="res://assets/sprites/player.png" id="1_rwm0n"]
+[ext_resource type="Script" uid="uid://btyctyfifvn2" path="res://assets/scripts/player_controller.gd" id="1_s027a"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_s027a"]
+radius = 5.0
+height = 14.0
+
+[node name="player" type="CharacterBody2D" unique_id=690914619]
+script = ExtResource("1_s027a")
+speed = 5.0
+jump_power = 8.0
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=614969954]
+offset = Vector2(0, -15)
+zoom = Vector2(6, 6)
+
+[node name="agentanimator" type="Node2D" parent="Camera2D" unique_id=763855077]
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Camera2D" unique_id=1625822693]
+
+[node name="Sprite2D" type="Sprite2D" parent="Camera2D" unique_id=586917388]
+position = Vector2(0, -8)
+texture = ExtResource("1_rwm0n")
+region_enabled = true
+region_rect = Rect2(0, 0, 16, 16)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=2141091245]
+position = Vector2(0, -7)
+shape = SubResource("CapsuleShape2D_s027a")

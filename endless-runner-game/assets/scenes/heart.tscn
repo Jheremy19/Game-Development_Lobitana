@@ -1,0 +1,24 @@
+[gd_scene format=3 uid="uid://b0gjxq6k0c7w8"]
+
+[ext_resource type="Texture2D" uid="uid://b5vdxbamyq5v6" path="res://assets/sprites/heart (32x32).png" id="1_bu1j5"]
+
+[node name="Heart" type="Control" unique_id=1582148644]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Label" type="Label" parent="." unique_id=85917882]
+layout_mode = 0
+offset_left = 10.0
+offset_top = -13.0
+offset_right = 23.0
+offset_bottom = 10.0
+theme_override_font_sizes/font_size = 16
+text = "0"
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=698442601]
+position = Vector2(-1.9073486e-06, 0)
+scale = Vector2(0.81250006, 0.78125)
+texture = ExtResource("1_bu1j5")
+region_rect = Rect2(0, 0, 15.051851, 16)

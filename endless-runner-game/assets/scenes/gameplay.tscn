@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://csjsdpa7ahlry"]
+
+[ext_resource type="PackedScene" uid="uid://d0x5md87flxaj" path="res://assets/scenes/player.tscn" id="1_n5x6c"]
+
+[node name="Gameplay" type="Node2D" unique_id=176966556]
+
+[node name="player" parent="." unique_id=690914619 groups=["player"] instance=ExtResource("1_n5x6c")]
+
+[node name="Area" type="Node2D" parent="." unique_id=1099740784 groups=["area_container"]]
