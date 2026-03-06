@@ -27,3 +27,10 @@ Tilemaps for grid-based levels, adding hazards (spikes/traps), designing flow (p
 <img width="1920" height="1020" alt="platform" src="https://github.com/user-attachments/assets/8618facf-3ad3-414d-888b-a18168860b53" />
 <img width="1920" height="1020" alt="coin" src="https://github.com/user-attachments/assets/4863d0cd-3ae0-49b8-bac4-2075a5462320" />
 
+This is my final one sir. I added an enemy, and audio. I also exported it
+<img width="1920" height="1020" alt="Final Layout" src="https://github.com/user-attachments/assets/446fafff-8a9f-43f2-91aa-e4ae776727c5" />
+<img width="1920" height="1020" alt="Slime" src="https://github.com/user-attachments/assets/91618bba-b993-43ec-956e-40786ff58c4d" />
+<img width="1920" height="1020" alt="Coin with SFX" src="https://github.com/user-attachments/assets/a0e42505-5223-45a1-bfcc-4dbfa7523005" />
+<img width="1918" height="1079" alt="Final Game" src="https://github.com/user-attachments/assets/3519471d-1f4b-4c87-867e-3bc6672bcf84" />
+
+
