@@ -1,4 +1,4 @@
-Week 1 Activity 1 Simple Scene with a moving node_Lobitaña
+<img width="1920" height="1020" alt="game" src="https://github.com/user-attachments/assets/13bedfd4-a18c-4055-8659-d0999bb5c44e" />Week 1 Activity 1 Simple Scene with a moving node_Lobitaña
 Create a simple 2D or 3D project showing "hello world" text
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0e59e935-bd6f-435b-a8dd-21997ee2eba1" />
 <img width="1917" height="1073" alt="Screenshot 2026-01-31 192208" src="https://github.com/user-attachments/assets/ebba3a35-a879-45d3-b9dd-4568e7f733fa" />
@@ -17,3 +17,13 @@ Activity : Design of 2 levels for an endless runner (2D or 3D); Level 1 should b
 Week 3: Activity1 UI/UX & Audio
 HUD
 <img width="1920" height="1020" alt="Screenshot 2026-03-05 201647" src="https://github.com/user-attachments/assets/9c2305a7-7981-4994-976c-39c4eaf10210" />
+
+I started from scratch sir. 
+I did:
+Build a dodge mechanic or simple platformer character; test with physics tweaks.
+Tilemaps for grid-based levels, adding hazards (spikes/traps), designing flow (pacing, difficulty curves). 
+<img width="1920" height="1020" alt="game" src="https://github.com/user-attachments/assets/920517d4-d84a-4bc4-a994-28eae026a1c4" />
+<img width="1920" height="1020" alt="player" src="https://github.com/user-attachments/assets/d8ecfd94-e8f4-4640-b5b4-917446553511" />
+<img width="1920" height="1020" alt="platform" src="https://github.com/user-attachments/assets/8618facf-3ad3-414d-888b-a18168860b53" />
+<img width="1920" height="1020" alt="coin" src="https://github.com/user-attachments/assets/4863d0cd-3ae0-49b8-bac4-2075a5462320" />
+
