@@ -29,14 +29,14 @@ Tilemaps for grid-based levels, adding hazards (spikes/traps), designing flow (p
 <img width="1920" height="1020" alt="coin" src="https://github.com/user-attachments/assets/4863d0cd-3ae0-49b8-bac4-2075a5462320" />
 
 Week 4 Activity 1
-This is my final one sir. I added an enemy, and audio. I also exported it
+This is my final game sir. I added an enemy, and audio. I also exported it to my laptop
 <img width="1920" height="1020" alt="Final Layout" src="https://github.com/user-attachments/assets/446fafff-8a9f-43f2-91aa-e4ae776727c5" />
 <img width="1920" height="1020" alt="Slime" src="https://github.com/user-attachments/assets/91618bba-b993-43ec-956e-40786ff58c4d" />
 <img width="1920" height="1020" alt="Coin with SFX" src="https://github.com/user-attachments/assets/a0e42505-5223-45a1-bfcc-4dbfa7523005" />
 <img width="1918" height="1079" alt="Final Game" src="https://github.com/user-attachments/assets/3519471d-1f4b-4c87-867e-3bc6672bcf84" />
 
-Week Activity 2
-I added touch controls for android and exported it to my phone
+Week 4 Activity 2
+I added touch controls for android and exported my game to my phone
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1390fd24-b551-46cb-9290-900f89934365" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7b9cff6e-0189-4267-8167-4a9208e23684" />
 ![b3f4c1a0-8377-48b0-8db5-f9223cc6b5e8](https://github.com/user-attachments/assets/57892644-65e9-4256-8c5d-7fb3b733498c)
